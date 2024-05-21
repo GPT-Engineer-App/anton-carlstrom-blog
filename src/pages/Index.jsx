@@ -29,30 +29,30 @@ const Index = () => {
           <VStack spacing={4} align="stretch">
             <Box p={4} borderWidth="1px" borderRadius="md">
               <Heading as="h3" size="md">
-                Understanding React Hooks
+                Effective Team Management Strategies
               </Heading>
               <Text fontSize="sm" color="gray.500">
-                Published on October 1, 2023
+                Published on May 1, 2024
               </Text>
-              <Text mt={2}>React Hooks have revolutionized the way we write React components. In this post, we'll dive deep into the most commonly used hooks and how they can simplify your code.</Text>
+              <Text mt={2}>Managing a team effectively requires a blend of leadership skills and strategic planning. This post explores key strategies for leading a successful team.</Text>
             </Box>
             <Box p={4} borderWidth="1px" borderRadius="md">
               <Heading as="h3" size="md">
-                A Guide to Modern CSS
+                The Future of Artificial Intelligence
               </Heading>
               <Text fontSize="sm" color="gray.500">
-                Published on September 15, 2023
+                Published on April 15, 2024
               </Text>
-              <Text mt={2}>CSS has come a long way in recent years. This guide covers the latest features and best practices for writing clean, maintainable CSS.</Text>
+              <Text mt={2}>Artificial Intelligence is rapidly evolving. This post discusses the future trends in AI and their potential impact on various industries.</Text>
             </Box>
             <Box p={4} borderWidth="1px" borderRadius="md">
               <Heading as="h3" size="md">
-                Building RESTful APIs with Node.js
+                Navigating the Challenges of Remote Work
               </Heading>
               <Text fontSize="sm" color="gray.500">
-                Published on August 30, 2023
+                Published on March 30, 2024
               </Text>
-              <Text mt={2}>Learn how to build robust and scalable RESTful APIs using Node.js and Express. This tutorial covers everything from setting up your environment to deploying your API.</Text>
+              <Text mt={2}>Remote work presents unique challenges for managers and employees alike. This post offers practical advice for overcoming these challenges and maintaining productivity.</Text>
             </Box>
           </VStack>
         </Box>
