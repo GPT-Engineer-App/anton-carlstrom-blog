@@ -11,7 +11,7 @@ const Index = () => {
             Anton Carlström
           </Heading>
           <Text fontSize="lg" color="gray.600">
-            Software Developer | Tech Enthusiast | Blogger
+            Manager, CSM Team | Tech Enthusiast | Blogger
           </Text>
         </Box>
 
@@ -19,7 +19,7 @@ const Index = () => {
           <Heading as="h2" size="lg" mb={4}>
             About Me
           </Heading>
-          <Text fontSize="md">Hello! I'm Anton Carlström, a passionate software developer with a love for creating innovative solutions and sharing knowledge through my blog. With a background in computer science and years of experience in the tech industry, I enjoy exploring new technologies and writing about my experiences.</Text>
+          <Text fontSize="md">Hello! I'm Anton Carlström, a manager in the CSM team with a love for creating innovative solutions and sharing knowledge through my blog. With a background in computer science and years of experience in the tech industry, I enjoy exploring new technologies and writing about my experiences.</Text>
         </Box>
 
         <Box>
